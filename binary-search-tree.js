@@ -10,40 +10,42 @@ class TreeNode {
 class BinarySearchTree {
 
   constructor() {
-    // Your code here 
+
+    this.root = null;
+    
   }
 
   insert(val, currentNode=this.root) {
-    // Your code here 
+    // Your code here
   }
 
   search(val) {
-    // Your code here 
+    // Your code here
   }
 
 
   preOrderTraversal(currentNode = this.root) {
-    // Your code here 
+    // Your code here
   }
 
 
   inOrderTraversal(currentNode = this.root) {
-    // Your code here 
+    // Your code here
   }
 
 
   postOrderTraversal(currentNode = this.root) {
-    // Your code here 
+    // Your code here
   }
 
     // Breadth First Traversal - Iterative
   breadthFirstTraversal() {
-    // Your code here 
+    // Your code here
   }
 
   // Depth First Traversal - Iterative
   depthFirstTraversal() {
-    // Your code here 
+    // Your code here
   }
 }
 
